@@ -19,8 +19,8 @@ import java.util.List;
 
 public class Main {
 
-
-    private static String token = "OTgzMDU4NTg2NzM1Mzc0MzM2.GrnLRZ.kn3Ii96zLq_2T73brie6-ZxgzMtz67t4GRzfzU";
+//ASK ME FOR THE TOKEN
+    private static String token = "BOT TOKEN";
     private static GatewayDiscordClient client_var;
 
     private static final Logger LOGGER = LoggerFactory.getLogger(Main.class);
