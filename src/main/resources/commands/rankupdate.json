@@ -1,0 +1,12 @@
+{
+  "name": "rankupdate",
+  "description": "prints out the rank you should be and pings moderators to handle your rank",
+  "options": [
+    {
+      "name": "username",
+      "description": "Your in game name",
+      "type": 3,
+      "required": true
+    }
+  ]
+}
